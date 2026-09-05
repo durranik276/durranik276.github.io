@@ -1,2 +1,2 @@
 # khangameshop
-uc
+https://khangameshop.github.io
