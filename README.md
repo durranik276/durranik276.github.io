@@ -1,2 +1,2 @@
 # khangameshop
-uc
+https://durranik276.github.io
